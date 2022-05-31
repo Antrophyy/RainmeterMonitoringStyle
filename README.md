@@ -7,6 +7,7 @@ Custom style for Rainmeter showing temperatures, loads and network speeds. Can b
 1. Download [Rainmeter](https://www.rainmeter.net/)
 2. Click on Manager skins and add the downloaded folders in there.
 3. Enable them.
-4. Download Classic Shell and lower the opacity of the taskbar so that the text can be seen.
+4. Download Classic Shell or any other app that makes the taskbar transparent.
 5. Download and install [MSI AFTERBURNER](https://www.msi.com/Landing/afterburner/graphics-cards) for the temperatures to work.
-6. If you have a different resolution than 1920x1080 or you want to simply move it, edit it within the configuration file or in the rainmeter "manage" window.
+6. Download and extract [rainmeter plugin for MSI Afterburner](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/). 
+7. If you have a different resolution than 1920x1080 or you want to simply move it, edit it within the configuration file or in the rainmeter "manage" window.
